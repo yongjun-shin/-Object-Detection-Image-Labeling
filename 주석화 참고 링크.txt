@@ -1,0 +1,7 @@
+labelme : https://gjghks.tistory.com/66
+
+이미지 증강 : https://btw-e-m.tistory.com/8
+
+bounding box 학습시키기 :  https://m.blog.naver.com/PostView.naver?blogId=bsh1004664&logNo=222422137547&isFromSearchAddView=true
+
+object detection : https://www.kaggle.com/ma00753045/yolov5-detect
